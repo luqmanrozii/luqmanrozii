@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Luqman Khan<br><br>🚀 Full Stack MERN Developer passionate about building modern web applications and AI-powered solutions.<br><br>💻 Skilled in:<br><br>* MongoDB<br>* Express.js<br>* React.js<br>* Node.js<br>* JavaScript<br>* Python<br><br>🤖 Currently learning:<br><br>* Artificial Intelligence<br>* Machine Learning<br>* Data Science<br><br>📌 I enjoy building:<br><br>* Full-stack web applications<br>* AI-powered dashboards<br>* E-commerce platforms<br>* SaaS-style applications<br><br>🌱 Currently working on:<br><br>* Improving my MERN stack expertise<br>* Building scalable projects<br>* Integrating AI into web applications<br><br>🎯 Goal:<br>To become a professional full-stack and AI developer while building impactful real-world products.<br><br>📫 Reach me:<br><br>* Email: [luqmanrozii@gmail.com](mailto:luqmanrozii@gmail.com)<br><br>⚡ Fun Fact:<br>I love turning ideas into real working products.<br>
+🚀 MERN Stack Developer | Learning AI, Machine Learning & Data Science<br><br>💻 Building modern full-stack web applications and AI-powered solutions using MongoDB, Express.js, React, Node.js, and Python.<br><br>🌱 Passionate about creating scalable, real-world projects and continuously improving my skills.<br>
 
 
 ## 🌐 Socials:
